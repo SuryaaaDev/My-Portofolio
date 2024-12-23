@@ -47,7 +47,7 @@ ul li a {
 }
 
 ul li a:hover {
-    color: burlywood;
+    color: #00000055;
 }
 
 #hambuger-menu {
@@ -90,7 +90,7 @@ ul li a:hover {
 }
 
 .visit {
-    background-color: burlywood;
+    background-color: #00d6da;
     width: 130px;
     height: 40px;
     display: flex;
@@ -104,7 +104,7 @@ ul li a:hover {
 .visit:hover {
     cursor: pointer;
     border: 1px rgb(56, 56, 56) solid;
-    background-color: #deb88792;
+    background-color: #00d6da6d;
     color: #ffffff;
 }   
 
@@ -149,6 +149,7 @@ ul li a:hover {
 
 .title-skill {
     display: none;
+    font-weight: bold;
 }
 
 .skill:hover .title-skill {
